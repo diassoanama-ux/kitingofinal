@@ -1,0 +1,6 @@
+{
+  "name": "Kitingo final",
+  "description": "A praça dos correios no seu telemóvel. Compre peças auto em Luanda com pagamento seguro por Referência Multicaixa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
